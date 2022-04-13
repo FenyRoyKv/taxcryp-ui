@@ -74,10 +74,11 @@
     "autoprefixer": "^9.8.6",
     "babel-loader": "^8.1.0",
     "css-loader": "^5.0.1",
+    "eslint-config-prettier": "^8.5.0",
     "husky": "^6.0.0",
     "lint-staged": "^10.5.4",
     "postcss": "^7.0.35",
-    "prettier": "^2.2.1",
+    "prettier": "2.6.2",
     "style-loader": "^2.0.0",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.2"
   },
